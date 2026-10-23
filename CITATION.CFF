@@ -5,7 +5,7 @@ authors:
   - family-names: "Muhammad Kabir"
     given-names: "Abdulrashid"
     orcid: "https://orcid.org/0000-0002-5482-0640"
-title: "Random Linear Motion Optimizer (RLMO) Algorithm"
-version: 1.0.0
-date-released: 2026-09-27
-url: "https://github.com/abdulrashidmkabir/RadomLinearMotionOptimizer-RLMO"
+title: "MDABO_HAWT_AeroStructural_Modelling_MATLAB_Package"
+version: 0.0.1
+date-released: 2026-10-23
+url: "https://github.com/abdulrashidmkabir/MDABO_HAWT_AeroStructural_Modelling_MATLAB_Package"
